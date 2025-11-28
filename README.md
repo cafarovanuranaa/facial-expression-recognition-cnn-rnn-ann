@@ -1,7 +1,7 @@
 # 📘 FACE EXPRESSION RECOGNITION PIPELINE 
 
 **Introduction:**   
-This project loads images from [Google Drive](YOUR_LINK_HERE) to recognize facial expressions using a CNN+RNN+ANN hybrid model. Each step shows exactly what is done.
+This project loads images from [Google Drive](https://drive.google.com/drive/folders/1rcwcbJQZ8VHEeGeM4-16hqE2zNG9lrfZ?usp=drive_link) to recognize facial expressions using a CNN+RNN+ANN hybrid model. Each step shows exactly what is done.
 
 ---
 
